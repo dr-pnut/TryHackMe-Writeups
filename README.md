@@ -6,13 +6,7 @@ Welcome to my cybersecurity portfolio. This repository serves as a documented re
 As a high school student dedicated to the cybersecurity field, I use this repository to track my technical progress, practice professional documentation, and demonstrate a clear understanding of both offensive and defensive security concepts. It is designed to reflect my commitment to continuous education, problem-solving, and ethical security practices.
 
 ## Navigation
-The documentation is hosted in an easily navigable format here: **[Insert Your GitBook/Website Link Here]**
-
-My write-ups are structured to show progression from foundational concepts to complex, independent challenges:
-* **Core Fundamentals:** Documentation on networking protocols, operating systems (Linux/Windows), and web architecture.
-* **Structured Learning Paths:** Completed modules focusing on specific methodologies and frameworks.
-* **Independent Challenges (CTFs):** Walkthroughs of standalone machines, demonstrating applied methodology and critical thinking.
-
+The Writeups are directly sorted from the modules and sections of the TryHackMe Roadmap. Any modules outside the roadmap will be included when in progress. CTF's and Challenges will be their own folder (sorted by difficulty).
 ## Technical Competencies
 Through these write-ups, I demonstrate practical experience with industry-standard methodologies and tools, including:
 * **Network Security & Reconnaissance:** Nmap, Wireshark, and active/passive enumeration.
